@@ -1,0 +1,8 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}All rights reserved
+${licensePrefix}Shaswat
+<#if licenseLast??>
+${licenseLast}
+</#if>
