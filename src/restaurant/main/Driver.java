@@ -1,4 +1,4 @@
-
+// Driver class
 package restaurant.main;
 
 import restaurant.ui.Restaurant;
